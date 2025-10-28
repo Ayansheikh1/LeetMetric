@@ -35,25 +35,6 @@ A sleek **LeetCode Stats Dashboard** built using **HTML, CSS, and JavaScript** t
 2. **Open** index.html in your browser
 (No server needed — it’s pure frontend!)
 3. Enter your LeetCode username and hit “Search” to view your stats 🎯
-<<<<<<< HEAD
-=======
-
----
-
-## 🧩 Screenshot  
-
-![LeetCode Stats Tracker Screenshot](./screenshot.png)
-
----
-
-## 👨‍💻 Author  
-
-**Ayan Sheikh**  
-💻 Passionate Web Developer | ⚡ JavaScript Enthusiast | 💚 Learner  
-
-- 📧 **Email:** [ayansheikh0698@gmail.com](mailto:ayansheikh0698@gmail.com)  
-- 🌐 **GitHub:** [@Ayansheikh1](https://github.com/Ayansheikh1)
->>>>>>> d5b866850708dfac2c45cce9994fb3fd470919f0
 
 ---
 
