@@ -26,5 +26,10 @@ A sleek **LeetCode Stats Dashboard** built using **HTML, CSS, and JavaScript** t
 
 ---
 
-## 📂 Project Structure
+## ⚙️ How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Ayansheikh1/LeetMetric.git
+   cd LeetMetric
 
