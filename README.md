@@ -32,5 +32,22 @@ A sleek **LeetCode Stats Dashboard** built using **HTML, CSS, and JavaScript** t
    ```bash
    git clone https://github.com/Ayansheikh1/LeetMetric.git
    cd LeetMetric
+2. **Open** index.html in your browser
+(No server needed — it’s pure frontend!)
+3. Enter your LeetCode username and hit “Search” to view your stats 🎯
 
+---
 
+## 🧩 Screenshot  
+
+![LeetCode Stats Tracker Screenshot](./screenshot.png)
+
+---
+
+## 👨‍💻 Author  
+
+**Ayan Sheikh**  
+💻 Passionate Web Developer | ⚡ JavaScript Enthusiast | 💚 Learner  
+
+- 📧 **Email:** [ayansheikh0698@gmail.com](mailto:ayansheikh0698@gmail.com)  
+- 🌐 **GitHub:** [@Ayansheikh1](https://github.com/Ayansheikh1)
